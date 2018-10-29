@@ -1,3 +1,6 @@
+# Practicing git
+# This is fun
+
 require 'minitest/autorun'
 
 def add_two_numbers(a, b)
@@ -13,5 +16,6 @@ end
 
 
 
-
 puts "hello world"
+
+puts "hello philippines"
